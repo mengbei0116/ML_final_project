@@ -8,7 +8,7 @@ https://drive.google.com/drive/folders/1FC6uMjBmogZKreGTsW3zTAMQMjRDWYee?usp=sha
 
 ### 內容敘述
 Kaggle上的資料集，內容包含知名大逃殺遊戲PUBG的玩家遊玩資料，紀錄該玩家在一場遊戲中的移動距離、獲取裝備數、擊殺數等數十項資訊，以及該玩家的最終名次百分比。  
-[!picture](https://github.com/mengbei0116/picture/blob/main/PUBG%E7%89%B9%E5%BE%B5.png)
+[!image](https://github.com/mengbei0116/picture/blob/main/PUBG%E7%89%B9%E5%BE%B5.png)
 
 我設計了兩個目標，分別是利用遊玩資訊預測出他的最終名次(回歸)，以及利用遊玩資訊與名次判斷該玩家遊玩的模式(分類)，透過實作了解不同機器學習的資料清洗、前處理、建模等等。並且實作一簡單介面可以輸入單場玩家資訊，預測出他該場的實際名次。  
 #### 效果評估
