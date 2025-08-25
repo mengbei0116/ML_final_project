@@ -18,4 +18,4 @@ Kaggle上的資料集，內容包含知名大逃殺遊戲PUBG的玩家遊玩資�
 ### 名次預測UI使用方法
 將模型檔與"輸出.py"載下來放入相同資料夾，即可執行。  
 接著將單場單玩家資訊依照csv檔的格式輸入後，將csv檔路徑輸入進介面即可進行預測名次。
-![image](https://github.com/mengbei0116/picture/blob/main/%E9%A0%90%E6%B8%AC%E5%99%A8.png)
+![image](https://github.com/mengbei0116/ML_final_project/blob/main/%E9%A0%90%E6%B8%AC%E5%99%A8.png)
